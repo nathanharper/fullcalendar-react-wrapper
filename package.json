@@ -1,0 +1,19 @@
+{
+  "name": "fullcalendar-react-wrapper",
+  "version": "1.0.0",
+  "description": "A React wrapper for the Fullcalendar jQuery library",
+  "main": "index.js",
+  "repository": "git@github.com:nathanharper/fullcalendar-react-wrapper.git",
+  "author": "Nathan Harper <nathan@reflexions.co>",
+  "license": "MIT",
+  "dependencies": {
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-scheduler": "^1.9.4",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}
